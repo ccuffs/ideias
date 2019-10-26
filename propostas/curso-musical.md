@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/estagio-ideia-blueviolet?style=for-the-badge)
+
 # Curso de programação musical com Euterpea
 
 Oferecer um curso inicial sobre criação de músicas simples usando [Euterpea](http://euterpea.com/)..
