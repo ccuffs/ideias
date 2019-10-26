@@ -10,13 +10,13 @@ Esse repositório é um espaço onde acadêmicos e docentes podem compartilhar s
 
 ## Quais ideias são válidas?
 
-Absolutamente todas. Você não precisa sugerir apenas as ideias que consigam ser contretizadas. Sinta-se convidado e livre para expressar qualquer ideia, seja ela alcançável a curto ou longo prazo, ou até mesmo inalcançável.
+Absolutamente todas. Você não precisa sugerir apenas as ideias que consigam ser concretizadas. Sinta-se convidado e livre para expressar qualquer ideia, seja ela alcançável a curto ou longo prazo, ou até mesmo inalcançável.
 
 A única ideia ruim é aquela que você tiver dentro da sua cabeça, sem compartilhar. Para vivermos no futuro, precisamos imaginá-lo primeiro. Vamos começar pelas ideias.
 
 ## As ideias serão colocadas em prática?
 
-Com uma comunidade ativa e empenho de todos, conseguiremos colocar as ideias em prática, sim. Se alguma ideia for vanguardista de mais, talvez ela exija mais discussão, trabalho e um pouco de sorte. De qualquer forma, partimos do princípio que nada é impossível.
+Com uma comunidade ativa e empenho de todos, conseguiremos colocar as ideias em prática, sim. Se alguma ideia for vanguardista demais, talvez ela exija mais discussão, trabalho e um pouco de sorte. De qualquer forma, partimos do princípio que nada é impossível.
 
 ## Contribua
 
@@ -35,6 +35,5 @@ Veja todas as alterações desse projeto no arquivo [CHANGELOG.md](CHANGELOG.md)
 
 Abaixo está uma lista de links interessantes e projetos similares:
 
-* [Outro projeto](https://github.com/projeto)
-* [Projeto inspiração](https://github.com/projeto)
-* [Ferramenta semelhante](https://github.com/projeto)
+* [Gerência do curso de Ciência da Computação](https://github.com/ccuffs/curso)
+* [Awesome Social Projects](https://github.com/Jciel/awesome-social-projects)
