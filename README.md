@@ -37,3 +37,4 @@ Abaixo está uma lista de links interessantes e projetos similares:
 
 * [Gerência do curso de Ciência da Computação](https://github.com/ccuffs/curso)
 * [Awesome Social Projects](https://github.com/Jciel/awesome-social-projects)
+* [App ideas](https://github.com/florinpop17/app-ideas)
