@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/estagio-ideia-blueviolet?style=for-the-badge)
+
 # Uma rede social - Acessible for World!
 
 É muito legal conectar com outras pessoas neste mundo maravilhoso e com acessibilidade incrível!
