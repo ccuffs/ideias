@@ -20,8 +20,7 @@ Com uma comunidade ativa e empenho de todos, conseguiremos colocar as ideias em 
 
 ## Contribua
 
-Sua ajuda é muito bem-vinda, independente da forma! Confira o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para conhecer todas as formas de contribuir com o projeto. Por exemplo, [sugira uma nova ideia](https://github.com/ccuffs/ideias/new/master/propostas) criando um arquivo na pasta `propostas`, ex.: `propostas/minha-ideia.md`. Você também pode [criar uma issue](https://github.com/ccuffs/template/issues/new?) para discutir ideias.
-
+Sua ajuda é muito bem-vinda, independente da forma! Confira o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para conhecer todas as formas de contribuir com o projeto. Por exemplo, você pode [criar uma issue](https://github.com/ccuffs/template/issues/new?) para propor uma ideia. Se a sua ideia exigir muitos elementos (seções, imagens, vídeos, etc), [sugira uma nova ideia](https://github.com/ccuffs/ideias/new/master/propostas) criando um arquivo na pasta `propostas`, ex.: `propostas/minha-ideia.md`.
 
 ## Licença
 
