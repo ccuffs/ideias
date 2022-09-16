@@ -1,0 +1,35 @@
+![Status](https://img.shields.io/badge/estagio-ideia-blueviolet?style=for-the-badge)
+
+# Curso de Criptografia e Segurança de Dados
+
+Oferecer um curso inicial sobre conceitos e propõe a trabalhar métodos para comunicações secretas fundamentados na
+aplicação da matemática discreta e algoritmos de chave pública e privada.
+
+## Objetivos gerais
+
+Proporcionar ao estudante o contato com a tecnologia de forma que possa desempenhar o papel de criador de soluções e proteger dados. Além disso, apresentar os benefícios de um sistema seguro, para proteção da informação, bem como o conhecimento das técnicas e ferramentas e brechas de segurança na proteção de ambientes pessoais e corporativos. Conhecer as normas segurança de fato e de direito, ressaltando a importância das técnicas de recuperação de dados. Com decorrer do conteúdo, poderia ter um trabalho sobre apresentar as técnicas de protocolos e falhas dos protocolos de segurança de redes de computadores sem fio (wireless), caso houve vazamento de dados e solucionando este problema.
+
+
+## Objetivos Específicos
+
+- Segurança de Dados.
+- Sistemas de Criptografia.
+- Teoria dos Números. 
+- Tipos Cifras.
+- Algoritmos Fundamentais.
+- Criptografia de Chave Pública e Privada.
+- Assinatura Digital.
+- Fundamentos da Criptoanalise.
+
+## Problemas
+
+- Pré-requisito de Sistema Operacional ou Redes de Computadores, público-alvo todos os estudantes.
+- Se caso for ofertado, ter conhecimentos prévios necessários destacados como: Sistema Operacional, Matematica Discreta e Pesquisa e Ordenação de dados.
+
+## Biografia inicial
+
+- COUTINHO, S.C. Números Inteiros e Criptografia RSA. 2ª Ed, IMPA/SBM, Rio de Janeiro, 2000.
+- BUCHMANN, J.A. Introdução a Criptografia, São Paulo, Editora Berkeley, 2002.
+- CARVALHO, B.D., Segurança de Dados com Criptografia Métodos e Algoritmos, Rio de Janeiro, Books.
+- STINSON, D.R; Criptograph Theory and Practice, The CRC Press Series on Discrete Mathematics and Its
+- Application, Boca Raton, CRC Press, 1995. 
